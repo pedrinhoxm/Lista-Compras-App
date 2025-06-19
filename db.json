@@ -1,0 +1,40 @@
+{
+  "compras": [
+    {
+      "id": "1",
+      "titulo": "Leite",
+      "descricao": "Leite integral 1L",
+      "concluida": true
+    },
+    {
+      "id": "2",
+      "titulo": "Pão",
+      "descricao": "Pão francês 500g",
+      "concluida": false
+    },
+    {
+      "id": "3",
+      "titulo": "Ovos",
+      "descricao": "Cartela com 12 ovos",
+      "concluida": false
+    },
+    {
+      "id": "4",
+      "titulo": "Arroz",
+      "descricao": "Arroz tipo 1 - 5kg",
+      "concluida": false
+    },
+    {
+      "id": "5",
+      "titulo": "Feijão",
+      "descricao": "Feijão preto 1kg",
+      "concluida": false
+    },
+    {
+      "id": "5f0d",
+      "titulo": "Açúcar",
+      "descricao": "Açúcar cristal 1kg",
+      "concluida": false
+    }
+  ]
+}
